@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(211, 211, 211);
+}
+#xs{
+    font-size: small;
+}
+fieldset{
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+margin:50px;
+position:relative;
+left:400px;
+}
+#r1,#r2,#r3,#r4{
+    background-color: rgb(211, 211, 211);
+    background-repeat:no-repeat;
+}
+#rating{
+cursor: pointer;
+}
+.star{
+    color: red;
+}
+button{
+    height: 40px;
+    width: 80px;
+    cursor: pointer;
+    background-color: rgb(197, 107, 127);
+    border: 1px solid rgb(97, 95, 95) ;
+}
+.star1{
+    color: rgb(221, 139, 15);
+    font-size: 30px;
+}
+
